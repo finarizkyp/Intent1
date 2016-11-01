@@ -2,7 +2,7 @@
 
 Judul Project : Intent1
 ![Screenshot 1](https://github.com/finarizkyp/Intent1/blob/master/I1Fina1.PNG)
-![Screenshot ](https://github.com/finarizkyp/Intent1/blob/master/I1_Fina2.PNG)
+![Screenshot 2](https://github.com/finarizkyp/Intent1/blob/master/I1_Fina2.PNG)
 
 Nama : Fina Rizky Pratiwi
 Kelas : XIIRPL2
